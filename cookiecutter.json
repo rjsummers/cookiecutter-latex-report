@@ -1,0 +1,5 @@
+{
+    "full_name": "Randall Summers",
+    "project_name": "My New Project",
+    "project_slug": "{{ cookiecutter.project_name|lower|replace(' ', '-') }}"
+}
